@@ -1,0 +1,21 @@
+{
+  "name": "facens",
+  "version": "1.0.0",
+  "description": "node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "web",
+    "test"
+  ],
+  "author": "kauan",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "save": "^2.9.0"
+  }
+}
